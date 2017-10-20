@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_shared_preferences</string>
+    <string name="title_text">Choose a background color</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_green">Green</string>
+    <string name="button_save">Save</string>
+</resources>
